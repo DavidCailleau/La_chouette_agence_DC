@@ -1,0 +1,42 @@
+
+@media (max-width: 768px) {
+  .citation {
+    width: 80%;
+  }
+  .navbar-header {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  .navbar {
+    margin: 0px;
+  }
+
+  .navigation {
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+ .social{
+     flex-wrap: nowrap;
+ }
+
+ .form-group{
+  margin-left:2rem;
+  margin-right:2rem;
+
+}
+
+.cadre{
+  width:85%;
+}
+
+#name, #email{
+  width:100%;
+  margin:auto;
+}
+}
