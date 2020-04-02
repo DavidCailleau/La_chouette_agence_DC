@@ -826,7 +826,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: rgb(212, 125, 85);
+  background-color: #B4582D;
 }
 
 .tc-white {
@@ -834,7 +834,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: rgb(212, 125, 85);
+  background: #B4582D;
   color: #ffffff;
 }
 
@@ -852,7 +852,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: rgb(212, 125, 85);
+  color: #B4582D;
 }
 
 .ltc-atomic-tangerine:hover {
