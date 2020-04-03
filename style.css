@@ -77,10 +77,12 @@ a:hover {
   margin: 40px auto;
   font-size: 1.2rem;
   font-style: italic;
+  color:black;
 }
 
 .citation p {
   font-style: normal;
+  color:black;
 }
 
 .logo {
