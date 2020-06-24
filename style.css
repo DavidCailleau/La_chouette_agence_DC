@@ -38,10 +38,9 @@ a:hover {
   padding: 50px 25px;
 }
 
-#bloc-7{
-  margin:auto;
+#bloc-7 {
+  margin: auto;
 }
-
 
 .bloc-md {
   padding: 25px;
@@ -77,12 +76,12 @@ a:hover {
   margin: 40px auto;
   font-size: 1.2rem;
   font-style: italic;
-  color:black;
+  color: black;
 }
 
 .citation p {
   font-style: normal;
-  color:black;
+  color: black;
 }
 
 .logo {
@@ -113,7 +112,6 @@ a:hover {
   font-weight: bold;
   text-decoration: underline;
 }
-
 
 .formulaire {
   text-align: center;
@@ -149,6 +147,7 @@ input:focus:invalid {
 
 .nav-link {
   font-size: 1.2rem;
+  color: black;
 }
 
 .navbar-toggler {
@@ -830,7 +829,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #B4582D;
+  background-color: #b4582d;
 }
 
 .tc-white {
@@ -838,7 +837,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #B4582D;
+  background: #b4582d;
   color: #ffffff;
 }
 
@@ -856,7 +855,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #B4582D;
+  color: #b4582d;
 }
 
 .ltc-atomic-tangerine:hover {
